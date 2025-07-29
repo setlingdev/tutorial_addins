@@ -6,17 +6,47 @@ Este é o início do tutorial.
 
 Alguma introdução útil aqui.
 
+- [x] Tarefa feita
+- [ ] Tarefa pendente
+
 ### Passo 1
 
 Explica o primeiro passo aqui...
+
+[Texto do link](https://www.sapo.pt)
+
+![Texto alternativo](images/setling_logo.jpg)
+
+**negrito**
+
+*itálico*
+
+~~riscado~~
 
 ## Instalação
 
 Mais instruções aqui...
 
+- Item A
+- Item B
+  - Subitem B1
+
+1. Passo 1
+2. Passo 2
+3. Passo 3
+
 ### Passo 1
 
 aegf
+
+Isto é `código inline`.
+
+> Isto é uma citação.
+
+| Produto   | Preço |
+|-----------|-------|
+| Café      | €2.00 |
+| Bolo      | €3.50 |
 
 ### Passo 2
 
