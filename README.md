@@ -1,4 +1,4 @@
-# Bem-vindo ao Manual, atualizado
+# Bem-vindo ao Manual, atualizado, outra vez
 
 Este é o início do tutorial.
 
