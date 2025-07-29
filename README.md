@@ -15,7 +15,9 @@ Explica o primeiro passo aqui...
 
 [Texto do link](https://www.sapo.pt)
 
-![Texto alternativo](images/setling_logo.jpg)
+![Setling](images/setling_logo.jpg)
+
+[![Setling](images/setling_logo.jpg)](https://setling.pt)
 
 **negrito**
 
