@@ -1,4 +1,5 @@
 # Bem-vindo ao Manual
+
 :portugal:
 
 Este é o início do tutorial.
@@ -16,7 +17,7 @@ Explica o primeiro passo aqui...
 
 [Texto do link](https://www.sapo.pt)
 
-![Setling](images/setling_logo.jpg)
+![Setling](images/setling_logo.jpg ':size=90')
 
 [![Setling](images/setling_logo.jpg)](https://setling.pt)
 
@@ -38,7 +39,7 @@ Mais instruções aqui...
 2. Passo 2
 3. Passo 3
 
-### Passo 1
+### Passo 111
 
 aegf
 
