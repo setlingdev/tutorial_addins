@@ -1,3 +1,3 @@
 - [Introdução](/README.md)
 - [Excel](/excel.md)
-- [AutoCad / BricsCad](/cad.md)
+- [BricsCad](/bricscad.md)

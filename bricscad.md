@@ -1,4 +1,4 @@
-# AutoCad / BricsCad
+# BricsCad
 
 ## Instalação
 
