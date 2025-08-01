@@ -36,7 +36,7 @@ Ir para a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns](\ "
 - SETLING.FINANCE
 - SETLING.HOTELARIA
 
-Do suporte, copiar os ficheiros **\*.ExcelAddins32.xll** e **\*.ExcelAddins64.xll**, e as subpastas **configs** e **fac-addins-help** (se existirem), para as pastas respetivas (as criadas anteriormente) (1)
+Do suporte, copiar os ficheiros **\*.ExcelAddins32.xll** e **\*.ExcelAddins64.xll**, e as subpastas **configs** e **fac-addins-help**, se existirem, para as pastas respetivas (as criadas anteriormente)
 
 ### Configuração do Excel (parte 2)
 
@@ -61,6 +61,6 @@ ativar o addin respetivo **\*.ExcelAddins Add-In** e clicar em **OK**, e sair do
 
 Fechar todas as instâncias do Excel
 
-Do suporte, copiar os ficheiros **\*.ExcelAddins32.xll** e **\*.ExcelAddins64.xll**, e as subpastas **configs** e **fac-addins-help** (se existirem), para as pastas respetivas (1)
+Do suporte, copiar os ficheiros **\*.ExcelAddins32.xll** e **\*.ExcelAddins64.xll**, e as subpastas **configs** e **fac-addins-help**, se existirem, substituir nas pastas respetivas
 
 Ao iniciar o Excel, os addins estão atualizados! :smiley:
