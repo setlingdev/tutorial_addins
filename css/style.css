@@ -1,0 +1,17 @@
+table td {
+    border: none !important;
+}
+
+.markdown-section tr:nth-child(2n) {
+    background-color: transparent !important;
+}
+
+.markdown-section tr, td {
+    border: none !important;
+}
+
+.markdown-section th {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}

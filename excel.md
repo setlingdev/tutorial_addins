@@ -6,11 +6,11 @@
 
 No Excel, ir a **File** -> **Options** -> **Trust Center**, clicar em **Trust Center Settings...** -> **Trusted Locations**
 
-![Trust Center](images/trust_center_1.png ':size=900')
+![Trust Center](img/trust_center_1.png ':size=900')
 
 ativar **Allow Trusted Locations on my network (not recommended)** e clicar em **Add new location...**
 
-![Trust Center](images/trust_center_2.png ':size=450')
+![Trust Center](img/trust_center_2.png ':size=450')
 
 clicar em **Browse...** e selecionar a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ':disabled') e clicar em **OK**
 
@@ -46,9 +46,9 @@ Do suporte, copiar os ficheiros **\*.ExcelAddins32.xll** e **\*.ExcelAddins64.xl
 
 No Excel, ir a **File** -> **Options** -> **Add-ins** e clicar em **Go...**
 
-![Trust Center](images/trust_center_3.png ':size=900')
+![Trust Center](img/trust_center_3.png ':size=900')
 
-![Trust Center](images/trust_center_4.png ':size=400')
+![Trust Center](img/trust_center_4.png ':size=400')
 
 clicar em **Browse...** e selecionar uma das pasta criadas em [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ':disabled') e clicar em **Open**
 
@@ -56,7 +56,7 @@ ativar o addin respetivo **\*.ExcelAddins Add-In** e clicar em **OK**, e sair do
 
 **Ao iniciar o Excel, aparecem os Toolbars, os addins estão instalados!** :smiley:
 
-![Toolbars](images/toolbars_1.png ':size=1000')
+![Toolbars](img/toolbars_1.png ':size=1000')
 
 ## Atualização
 
