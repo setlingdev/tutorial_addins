@@ -12,13 +12,13 @@ ativar **Allow Trusted Locations on my network (not recommended)** e clicar em *
 
 ![Trust Center](images/trust_center_2.png ':size=450')
 
-clicar em **Browse...** e selecionar a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ":disabled") e clicar em **OK**
+clicar em **Browse...** e selecionar a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ':disabled') e clicar em **OK**
 
 ativar **Subfolders of this location are also trusted** e clicar em **OK** -> **OK** -> **OK**, e sair do Excel
 
 ### Localização dos Addins
 
- Ir para a pasta do suporte [\\\bysat-tb.local\\partilha\\Operações\\03 FTTH\\06 Suporte\\@@DESENVOLVIMENTO SETLING\\](\ ":disabled") onde estão os addins do Excel:
+ Ir para a pasta do suporte [\\\bysat-tb.local\\partilha\\Operações\\03 FTTH\\06 Suporte\\@@DESENVOLVIMENTO SETLING\\](\ ':disabled') onde estão os addins do Excel:
 
 - FASTFIBER
 - SETLING.ExcelAddins
@@ -28,7 +28,7 @@ ativar **Subfolders of this location are also trusted** e clicar em **OK** -> **
 
 ### Copia dos addins
 
-Ir para a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ":disabled") e criar pastas para os addins que se deseja instalar, com os nomes:
+Ir para a pasta [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ':disabled') e criar pastas para os addins que se deseja instalar, com os nomes:
 
 - FASTFIBER.ExcelAddins
 - SETLING.ExcelAddins
@@ -50,7 +50,7 @@ No Excel, ir a **File** -> **Options** -> **Add-ins** e clicar em **Go...**
 
 ![Trust Center](images/trust_center_4.png ':size=400')
 
-clicar em **Browse...** e selecionar uma das pasta criadas em [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ":disabled") e clicar em **Open**
+clicar em **Browse...** e selecionar uma das pasta criadas em [C:\\Users\\{username}\\AppData\\Roaming\\Microsoft\\AddIns\\](\ ':disabled') e clicar em **Open**
 
 ativar o addin respetivo **\*.ExcelAddins Add-In** e clicar em **OK**, e sair do Excel
 

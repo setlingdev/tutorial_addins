@@ -4,14 +4,14 @@
 
 ### Localização dos Addins
 
- Ir para a pasta do suporte [\\\bysat-tb.local\\partilha\\Operações\\03 FTTH\\06 Suporte\\@@DESENVOLVIMENTO SETLING\\](\ ":disabled") onde estão os addins do BricsCad:
+ Ir para a pasta do suporte [\\\bysat-tb.local\\partilha\\Operações\\03 FTTH\\06 Suporte\\@@DESENVOLVIMENTO SETLING\\](\ ':disabled') onde estão os addins do BricsCad:
 
 - FASTFIBER
 - SETLING.BricsCadAddins
 
 ### Copia dos addins
 
-Ir para a pasta [C:\\Users\\{username}\\Documents\BricsCAD\\](\ ":disabled") e criar pastas para os addins que se deseja instalar, com os nomes:
+Ir para a pasta [C:\\Users\\{username}\\Documents\BricsCAD\\](\ ':disabled') e criar pastas para os addins que se deseja instalar, com os nomes:
 
 - 00-Temporário
 - FASTFIBER.BricsCadAddins
@@ -57,7 +57,7 @@ No BricsCad, escrever o comando **appload**
 
 ![Addins](images/bricscad_4.png ':size=800')
 
-clicar em **+**, selecionar os ficheiros **\*BricsCadAddins.dll** nas pastas criadas, clicar em **AutoLoad** emcada um deles e clicar em **Close**, e sair do BricsCad
+clicar em **+**, selecionar os ficheiros **\*BricsCadAddins.dll** nas pastas criadas, clicar em **AutoLoad** em cada um deles e clicar em **Close**, e sair do BricsCad
 
 **Ao iniciar o BricsCad, os addins estão instalados!** :smiley:
 
@@ -76,3 +76,19 @@ ativar **Desbloquear** e clicar em **Aplicar** -> **OK**
 Extrair o **\*.zip**, copiar os ficheiros extraidos e substituir nas pastas respetivas (as criadas anteriormente)
 
 Ao iniciar o BricsCad, os addins estão atualizados! :smiley:
+
+## Lista de comandos
+
+Lista de todos os comandos de descrição, por módulos/operadores
+
+1. Geral
+
+    - [pal](#): Mostra e/ou esconde a palete do addin
+    - [gmcs](#): Lê o sistema de coordenadas associado ao desenho
+    - [smcs](#): Atribui o sistema de coordenadas do desenho
+
+2. NOS
+
+3. DIGI
+
+4. HFC

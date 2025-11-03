@@ -1,6 +1,6 @@
 # Addins SETLING
 
-Manual de instalação dos addins para
+Manual de instalação e utilização dos addins para
 
 - Excel
 - BricsCad
