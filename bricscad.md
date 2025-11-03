@@ -79,7 +79,7 @@ Ao iniciar o BricsCad, os addins estão atualizados! :smiley:
 
 ## Lista de comandos
 
-Lista de todos os comandos de descrição, por módulos/operadores
+Lista de todos os comandos e descrição, por módulos/operadores
 
 | Comando | Descrição | Grupo | Toolbar |
 | :- | :- | :- | :- |
